@@ -8,7 +8,7 @@ var player2;
 var modal = document.getElementById('myModal');
 var smodal = document.getElementById('startModal');
 
-
+//Hello Commit 2
 
 function setPlayer(value) {
     modal.style.display = "none";
